@@ -1,4 +1,4 @@
-# Analysing music using neural networks and AI
+# Analysing musical performances
 Notebooks for music performance analysis teaching @ Cambridge University, Centre for Music & Science. © Huw Cheston, 2023
 
 ![NN](https://www.billboard.com/wp-content/uploads/2022/12/market-ai-music-billboard-2022-bb16-illustration-by-cathryn-virginia-pro-1260.jpg)
