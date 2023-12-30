@@ -1,6 +1,6 @@
-# 2023-sutton-trust-teaching
-Notebooks for 2023 Sutton Trust cohort @ Cambridge University, Centre for Music & Science
-## Analysing music using neural networks and AI
+# Analysing music using neural networks and AI
+Notebooks for music performance analysis teaching @ Cambridge University, Centre for Music & Science. © Huw Cheston, 2023
+
 ![NN](https://www.billboard.com/wp-content/uploads/2022/12/market-ai-music-billboard-2022-bb16-illustration-by-cathryn-virginia-pro-1260.jpg)
 
 ---
